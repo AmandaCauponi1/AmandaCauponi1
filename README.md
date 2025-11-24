@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/amanda-cauponi-3a9aa22a1" target="_blank">Amanda Cauponi!</a> 
   </h1>
   <br>
-  <p>Atualmente estou cursando informática para internet no SESI/SENAI</p>
+  <p>Atualmente estou cursando Sistemas de Informação no IFAL</p>
 </div>
 
 ---

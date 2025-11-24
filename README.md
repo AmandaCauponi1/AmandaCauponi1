@@ -2,7 +2,6 @@
   <h1 align="center">
     Oi, Tudo bem? Eu sou 
     <a href="https://linkedin.com/in/amanda-cauponi-3a9aa22a1" target="_blank">Amanda Cauponi!</a> 
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/smiling-face-with-open-mouth-and-cold-sweat_1f605.png" alt="Emoji" width="30" height="30" style="vertical-align: middle;">
   </h1>
   <br>
   <p>Atualmente estou cursando informática para internet no SESI/SENAI</p>

@@ -30,12 +30,8 @@
 <div align="center">
   <h2>📊 Minhas estatísticas do GitHub:</h2>
   <br>
-    <a href="https://github.com/AmandaCauponi1/AmandaCauponi1">
-      <img alt="AmandaCauponi1 Github Stats" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=AmandaCauponi1&show_icons=true&count_private=true&theme=holi&hide_border=true" />
-    </a>
-    <a href="https://github.com/AmandaCauponi1/AmandaCauponi1">
-      <img alt="AmandaCauponi1 Top Languages" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaCauponi1&langs_count=8&count_private=true&layout=compact&theme=holi&hide_border=true&" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandaCauponi1&show_icons=true&count_private=true&theme=holi&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaCauponi1&langs_count=8&count_private=true&layout=compact&theme=holi&hide_border=true" height="180em" />
 </div>
 
 ---

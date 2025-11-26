@@ -12,7 +12,7 @@
 <div align="center">
   <h2>🚀 Linguagens e Ferramentas:</h2>
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mysql" alt="HTML, CSS, JavaScript, Python, React, Node.js, MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mysql,powerbi" alt="HTML, CSS, JavaScript, Python, React, Node.js, MySQL, PowerBI" />
 </div>
 
 ---
